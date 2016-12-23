@@ -1,11 +1,11 @@
-## 1. Users management:
+#1. Users management:
 
  This **Users management guide** instructs you to manage users as administrator. 
  Go to the **Administration Center**, there are **Users Management**, **Role Management** that allow admin to be able to manage users such as creating a new user, promoting users to admin role and revoking a user’s admin role.
  
   ![Administration menu](images/administrationMenu.png)
  
- ### 1.1. How to create a new user
+ ##1.1. How to create a new user
  
   You need to click on Users on the left side to go to the **Users Management**.
  
@@ -33,7 +33,7 @@
    
    ![list user](images/listUser.png)
 
- ### 1.2. How to promote users to admin role
+ ##1.2. How to promote users to admin role
 
   Click on **Roles** in **Administration Center** to go to the Roles Management.
 
@@ -52,7 +52,7 @@
    ![Succeed](images/messageSucceed.png)
 
  
- ### 1.3. How to revoke a user’s admin role
+ ##1.3. How to revoke a user’s admin role
 
   At the **Roles Management**, there are a administrators list, so the admin can revoke other admins but himself to become a normal user. We can see every admin has   their own **delete** icon except admin himself. To revoke, click on **delete** icon of admin that want to revoke. An modal notification **Revoke administrator?** will be shown to be sure, click on **Revoke** red button to continue revoking, click on **Cancel** button to cancel.
 
